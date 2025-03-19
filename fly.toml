@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'lab05-24464317'
+app = 'chatbot-crimson-sunset-1650'
 primary_region = 'hkg'
 
 [build]
